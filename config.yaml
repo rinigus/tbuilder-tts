@@ -1,0 +1,14 @@
+project: tts
+
+targets:
+  - SailfishOS-4.0.1.48-aarch64
+
+rpms: RPMS
+
+buildoptions: -j6
+
+options:
+  - keep-release-from-spec
+
+macros:
+  - sailfish_build 1

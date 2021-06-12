@@ -1,0 +1,6 @@
+[submodule "src/pkg-mimic"]
+	path = src/pkg-mimic
+	url = https://github.com/rinigus/pkg-mimic
+[submodule "src/pkg-picotts"]
+	path = src/pkg-picotts
+	url = https://github.com/rinigus/pkg-picotts
